@@ -2,7 +2,6 @@
 
 
 - 🔭 Atualmente trabalho como desenvolvedor fullstack
-- 🌱 Atualmente estou estudando React
 
 <div>
   <a href="https://github.com/samuelfer">
